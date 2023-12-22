@@ -34,13 +34,14 @@ Welcome to StockApp, your go-to solution for mobile stock management! 🚀 This 
 ## 🛠 Firebase setup
 In your Firebase console, go to the storage tab on the left. Click on the rules tab and set your rule to public. Use the following code to set it to public.
 
-`service firebase.storage {
+```firebase
+service firebase.storage {
   match /b/{bucket}/o {
     match /{allPaths=**} {
       allow read, write;
     }
   }
-}`
+}
 This is good for testing purposes, however, you should secure your DB connection using authenticate users.
 
 
