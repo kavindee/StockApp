@@ -9,22 +9,40 @@ Welcome to StockApp, your go-to solution for mobile stock management! 🚀 This 
 ## 📸 Screenshots
 
 ![App Screenshots](Screenshot1.png)
-![App Screenshots](Screenshot1.png)
+![App Screenshots](Screenshot2.png)
+![App Screenshots](Screenshot3.png)
+![App Screenshots](Screenshot4.png)
+![App Screenshots](Screenshot5.png)
+![App Screenshots](Screenshot6.png)
+![App Screenshots](Screenshot7.png)
+![App Screenshots](Screenshot8.png)
+
 
 ## 🚀 Features
 
-- **Intuitive UI:** User-friendly interface for smooth navigation.
-- **Real-time Updates:** Stay informed with live stock updates.
-- **Barcode Scanning:** Quickly add and manage products using barcode scanning.
-- **Customizable Alerts:** Set alerts for low stock levels or other criteria.
-- **Multi-User Support:** Collaborate with your team by adding multiple users.
-- **Data Export:** Export your stock data for analysis or backup.
+- **CRUD Application:** You can Add, Delete, Update, and View items
+- **Report:** Can get the reports
+- **Billing:** Billing System
+- **Data Export:** Firebase database
 
 ## 🛠 Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `[git clone https://github.com/your-username/your-repo.git](https://github.com/kavindee/StockApp.git)`
 2. Open the project in Android Studio.
 3. Build and run the app on your Android device or emulator.
+
+## 🛠 Firebase setup
+In your Firebase console, go to the storage tab on the left. Click on the rules tab and set your rule to public. Use the following code to set it to public.
+
+service firebase.storage {
+  match /b/{bucket}/o {
+    match /{allPaths=**} {
+      allow read, write;
+    }
+  }
+}
+This is good for testing purposes, however, you should secure your DB connection using authenticate users.
+
 
 ## 🤝 Contributing
 
@@ -42,7 +60,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Have questions, suggestions, or just want to chat? Reach out to us at [your.email@example.com](mailto:your.email@example.com).
+Have questions, suggestions, or just want to chat? Reach out to us at [your.email@example.com](mailto:wmohankavinda@gmail.com).
 
 ---
 
