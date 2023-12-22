@@ -8,7 +8,7 @@ Welcome to StockApp, your go-to solution for mobile stock management! 🚀 This 
 
 ## 📸 Screenshots
 
-![App Screenshots](Screenshot1.png)
+![App Screenshots](Screenshot1.png)<img> . Add 40(and 40) attr.
 ![App Screenshots](Screenshot2.png)
 ![App Screenshots](Screenshot3.png)
 ![App Screenshots](Screenshot4.png)
@@ -60,7 +60,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Have questions, suggestions, or just want to chat? Reach out to us at [your.email@example.com](mailto:wmohankavinda@gmail.com).
+Have questions, suggestions, or just want to chat? Reach out to us at [wmohankavinda@gmail.com](mailto:wmohankavinda@gmail.com).
 
 ---
 
