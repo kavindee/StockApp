@@ -42,6 +42,8 @@ service firebase.storage {
     }
   }
 }
+
+---
 This is good for testing purposes, however, you should secure your DB connection using authenticate users.
 
 
@@ -63,6 +65,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Have questions, suggestions, or just want to chat? Reach out to us at [wmohankavinda@gmail.com](mailto:wmohankavinda@gmail.com).
 
----
+
 
 Happy coding! 🚀✨
