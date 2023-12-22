@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "278834753582",
+    "firebase_url": "https://stockapp-41633-default-rtdb.firebaseio.com",
+    "project_id": "stockapp-41633",
+    "storage_bucket": "stockapp-41633.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278834753582:android:0124dd67d670c65473efbf",
+        "android_client_info": {
+          "package_name": "com.example.inspiredstock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbokwB0iBy48pQFN7OwjkPgTMD-jnOOuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278834753582:android:a0a1fef97143f24b73efbf",
+        "android_client_info": {
+          "package_name": "com.example.stockapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbokwB0iBy48pQFN7OwjkPgTMD-jnOOuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
