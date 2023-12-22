@@ -1,14 +1,15 @@
-# Stockify: Mobile Stock Management App 📱📊
+# StockApp: Mobile Stock Management App 📱📊
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub issues](https://img.shields.io/github/issues/your-username/your-repo)](https://github.com/your-username/your-repo/issues)
 [![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo)](https://github.com/your-username/your-repo/stargazers)
 
-Welcome to Stockify, your go-to solution for mobile stock management! 🚀 This Android app, developed using Java and Android Studio, empowers users to effortlessly manage their stock, keeping everything organized and easily accessible on the go.
+Welcome to StockApp, your go-to solution for mobile stock management! 🚀 This Android app, developed using Java and Android Studio, empowers users to effortlessly manage their stock, keeping everything organized and easily accessible on the go.
 
 ## 📸 Screenshots
 
-![App Screenshots](screenshots/screenshot_collage.png)
+![App Screenshots](Screenshot1.png)
+![App Screenshots](Screenshot1.png)
 
 ## 🚀 Features
 
