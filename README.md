@@ -8,7 +8,7 @@ Welcome to StockApp, your go-to solution for mobile stock management! 🚀 This 
 
 ## 📸 Screenshots
 
-![App Screenshots](Screenshot1.png)<img> . Add 40(and 40) attr.
+![App Screenshots](Screenshot1.png)
 ![App Screenshots](Screenshot2.png)
 ![App Screenshots](Screenshot3.png)
 ![App Screenshots](Screenshot4.png)
